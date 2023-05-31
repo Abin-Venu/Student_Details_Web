@@ -1,0 +1,12 @@
+C:\Projects\Stud.Web.UI\Std.Common\bin\Debug\net6.0\Std.Common.deps.json
+C:\Projects\Stud.Web.UI\Std.Common\bin\Debug\net6.0\Std.Common.dll
+C:\Projects\Stud.Web.UI\Std.Common\bin\Debug\net6.0\Std.Common.pdb
+C:\Projects\Stud.Web.UI\Std.Common\obj\Debug\net6.0\Std.Common.csproj.AssemblyReference.cache
+C:\Projects\Stud.Web.UI\Std.Common\obj\Debug\net6.0\Std.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Stud.Web.UI\Std.Common\obj\Debug\net6.0\Std.Common.AssemblyInfoInputs.cache
+C:\Projects\Stud.Web.UI\Std.Common\obj\Debug\net6.0\Std.Common.AssemblyInfo.cs
+C:\Projects\Stud.Web.UI\Std.Common\obj\Debug\net6.0\Std.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Stud.Web.UI\Std.Common\obj\Debug\net6.0\Std.Common.dll
+C:\Projects\Stud.Web.UI\Std.Common\obj\Debug\net6.0\refint\Std.Common.dll
+C:\Projects\Stud.Web.UI\Std.Common\obj\Debug\net6.0\Std.Common.pdb
+C:\Projects\Stud.Web.UI\Std.Common\obj\Debug\net6.0\ref\Std.Common.dll

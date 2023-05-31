@@ -1,0 +1,12 @@
+C:\Projects\Stud.Web.UI\Std.Business.Logic\bin\Debug\net6.0\Std.Business.Logic.deps.json
+C:\Projects\Stud.Web.UI\Std.Business.Logic\bin\Debug\net6.0\Std.Business.Logic.dll
+C:\Projects\Stud.Web.UI\Std.Business.Logic\bin\Debug\net6.0\Std.Business.Logic.pdb
+C:\Projects\Stud.Web.UI\Std.Business.Logic\obj\Debug\net6.0\Std.Business.Logic.csproj.AssemblyReference.cache
+C:\Projects\Stud.Web.UI\Std.Business.Logic\obj\Debug\net6.0\Std.Business.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Stud.Web.UI\Std.Business.Logic\obj\Debug\net6.0\Std.Business.Logic.AssemblyInfoInputs.cache
+C:\Projects\Stud.Web.UI\Std.Business.Logic\obj\Debug\net6.0\Std.Business.Logic.AssemblyInfo.cs
+C:\Projects\Stud.Web.UI\Std.Business.Logic\obj\Debug\net6.0\Std.Business.Logic.csproj.CoreCompileInputs.cache
+C:\Projects\Stud.Web.UI\Std.Business.Logic\obj\Debug\net6.0\Std.Business.Logic.dll
+C:\Projects\Stud.Web.UI\Std.Business.Logic\obj\Debug\net6.0\refint\Std.Business.Logic.dll
+C:\Projects\Stud.Web.UI\Std.Business.Logic\obj\Debug\net6.0\Std.Business.Logic.pdb
+C:\Projects\Stud.Web.UI\Std.Business.Logic\obj\Debug\net6.0\ref\Std.Business.Logic.dll
